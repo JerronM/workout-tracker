@@ -14,7 +14,7 @@ As a user, I want to be able to view create and track daily workouts. I want to 
 
 ## Screenshot
 Application Main Screen:
-<img src="">
+<img src="https://github.com/JerronM/workout-tracker/blob/main/screenshot.png?raw=true">
 
 
 ## Links
